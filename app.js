@@ -58,8 +58,7 @@ Automation: Start small with automation. As a DevOps team automates enterprise s
 Culture: A DevOps team can foster a cultural transformation that permeates across an enterprise. It can empower different departments with DevOps best practices to drive operational efficiency. As such, a DevOps team can play a pivotal role in the development of a successful enterprise culture.
 Measurement: Highly evolved organizations have significantly higher levels of automated business metrics available on demand in contrast to other organizations, according to Puppet. They also have the lowest level of manually gathered system metrics. Yet some metrics must be collected manually and tracked regularly. These metrics include enterprise revenue, renewal rates, customer acquisition costs, overhead costs and variable cost percentages.
 Sharing: Highly evolved organizations transition from sharing largely within individual teams to sharing across all departments, Puppet notes. Meanwhile, a DevOps team can share automation and deployment patterns across an enterprise. These patterns then can help an enterprise standardize its everyday operations.
-A systematic approach to DevOps is ideal. This approach enables a DevOps team to quickly identify and address potential problems before they get out of hand. Best of all, it allows a DevOps team to drive meaningful improvements across all levels of an enterprise.
-'));
+A systematic approach to DevOps is ideal. This approach enables a DevOps team to quickly identify and address potential problems before they get out of hand. Best of all, it allows a DevOps team to drive meaningful improvements across all levels of an enterprise'));
 
 app.listen(port);
 console.log(`App running on http://localhost:${port}`);
